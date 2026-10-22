@@ -10,3 +10,16 @@ h1 { text-align: center;
      border-bottom: 3px solid #0072ce;
       padding-bottom: 10px; 
     }
+
+section {
+    margin-top: 24px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-left: 4px solid #0072ce;
+    border-radius: 6px;
+}
+
+section h2 {
+    color: #0072ce;
+    margin-top: 0;
+}

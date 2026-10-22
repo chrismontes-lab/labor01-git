@@ -1,5 +1,10 @@
-# Lab 01 - Control de Versiones con Git
-Proyecto del Laboratorio 01 del curso.
+## Objetivo del proyecto
 
-## Autor 
-Christian Montesinos - Laboratorio 01
+Practicar el control de versiones utilizando Git y GitHub.
+
+## Tecnologías utilizadas
+
+- HTML5 para la estructura de la página.
+- CSS3 para los estilos visuales.
+- Git para el control de versiones.
+- GitHub para alojar el repositorio.
